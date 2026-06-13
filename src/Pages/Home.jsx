@@ -23,7 +23,7 @@ const Home = () => {
             </div>
 
             <div className="mx-auto">
-                <img src="/public/hero-image.png" alt="Hero-Image" />
+                <img src="/hero-image.png" alt="Hero-Image" />
             </div>
 
         </div>
